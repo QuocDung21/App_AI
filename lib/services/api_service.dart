@@ -7,6 +7,7 @@ class ApiService {
 
   ApiService({required this.endpoint});
 
+
   static const String baseUrl =
       'https://bff7-171-243-59-113.ngrok-free.app/disease_iden_demo/';
 
